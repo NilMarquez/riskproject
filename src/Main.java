@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 // Project moved to another repositori together with classmates
+//Risk Game
 public class Main {
     Scanner input = new Scanner(System.in);
     private static void menu(){
