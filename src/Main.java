@@ -1,10 +1,11 @@
 import java.util.Scanner;
 import java.util.Random;
+// Trying new repositori
 public class Main {
 
     private static void menu(){
 
-}
+    }
     private static void ordenjugadores(){
 
     }
